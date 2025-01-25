@@ -1,0 +1,7 @@
+PyQt5
+pyopengl
+matplotlib
+reportlab
+pyyaml
+customtkinter
+numpy
